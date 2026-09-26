@@ -18,6 +18,6 @@ jobs:
           gh pr create \
             --repo "${{ github.repository }}" \
             --base main \
-            --head attack/bot-extra-file-automerge \
-            --title "Add demo module 1.0.1" \
+            --head attack/bot-extra-file-automerge-2 \
+            --title "Add demo module 1.0.2" \
             --body "Controlled security test: one module version plus an unrelated root file. Do not merge manually."

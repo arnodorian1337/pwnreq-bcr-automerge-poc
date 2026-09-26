@@ -16,5 +16,5 @@ jobs:
     steps:
       - uses: bazelbuild/continuous-integration/actions/bcr-pr-reviewer@bd6a90eceb738c010fd1a9b472e8b6c894e6ea4e
         with:
-          token: ${{ github.token }}
+          token: ${{ secrets.BCR_PR_REVIEW_HELPER_TOKEN }}
           action-type: review_prs

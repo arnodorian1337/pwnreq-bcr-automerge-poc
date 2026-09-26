@@ -2,10 +2,10 @@
   "homepage": "https://example.com/demo",
   "maintainers": [
     {
-      "email": "security-research@example.com",
-      "github": "arnodorian1337",
-      "github_user_id": 148738644,
-      "name": "Security researcher"
+      "email": "41898282+github-actions[bot]@users.noreply.github.com",
+      "github": "github-actions[bot]",
+      "github_user_id": 41898282,
+      "name": "Controlled attacker identity"
     }
   ],
   "repository": ["github:arnodorian1337/pwnreq-bcr-automerge-poc"],

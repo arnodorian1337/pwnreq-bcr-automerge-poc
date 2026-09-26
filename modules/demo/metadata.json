@@ -1,0 +1,14 @@
+{
+  "homepage": "https://example.com/demo",
+  "maintainers": [
+    {
+      "email": "security-research@example.com",
+      "github": "arnodorian1337",
+      "github_user_id": 148738644,
+      "name": "Security researcher"
+    }
+  ],
+  "repository": ["github:arnodorian1337/pwnreq-bcr-automerge-poc"],
+  "versions": ["1.0.0"],
+  "yanked_versions": {}
+}

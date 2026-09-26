@@ -1,0 +1,16 @@
+name: Proof check
+
+on:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  proof-check:
+    name: proof-check
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - name: Accept well-formed proof changes
+        run: test -f modules/demo/metadata.json

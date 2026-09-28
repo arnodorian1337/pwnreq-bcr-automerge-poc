@@ -1,0 +1,1 @@
+This benign control commit is the only content approved by the victim maintainer.

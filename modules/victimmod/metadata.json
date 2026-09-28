@@ -6,6 +6,78 @@
       "github": "staz0t",
       "github_user_id": 26545664,
       "name": "Controlled victim maintainer"
+    },
+    {
+      "email": "26427366+UebelAndre@users.noreply.github.com",
+      "github": "UebelAndre",
+      "github_user_id": 26427366,
+      "name": "Timing fixture maintainer"
+    },
+    {
+      "email": "1024025+torvalds@users.noreply.github.com",
+      "github": "torvalds",
+      "github_user_id": 1024025,
+      "name": "Timing fixture maintainer"
+    },
+    {
+      "email": "2+defunkt@users.noreply.github.com",
+      "github": "defunkt",
+      "github_user_id": 2,
+      "name": "Timing fixture maintainer"
+    },
+    {
+      "email": "1+mojombo@users.noreply.github.com",
+      "github": "mojombo",
+      "github_user_id": 1,
+      "name": "Timing fixture maintainer"
+    },
+    {
+      "email": "3+pjhyett@users.noreply.github.com",
+      "github": "pjhyett",
+      "github_user_id": 3,
+      "name": "Timing fixture maintainer"
+    },
+    {
+      "email": "4+wycats@users.noreply.github.com",
+      "github": "wycats",
+      "github_user_id": 4,
+      "name": "Timing fixture maintainer"
+    },
+    {
+      "email": "70+schacon@users.noreply.github.com",
+      "github": "schacon",
+      "github_user_id": 70,
+      "name": "Timing fixture maintainer"
+    },
+    {
+      "email": "2723+holman@users.noreply.github.com",
+      "github": "holman",
+      "github_user_id": 2723,
+      "name": "Timing fixture maintainer"
+    },
+    {
+      "email": "170270+sindresorhus@users.noreply.github.com",
+      "github": "sindresorhus",
+      "github_user_id": 170270,
+      "name": "Timing fixture maintainer"
+    },
+    {
+      "email": "810438+gaearon@users.noreply.github.com",
+      "github": "gaearon",
+      "github_user_id": 810438,
+      "name": "Timing fixture maintainer"
+    },
+    {
+      "email": "25254+tj@users.noreply.github.com",
+      "github": "tj",
+      "github_user_id": 25254,
+      "name": "Timing fixture maintainer"
+    },
+    {
+      "email": "9287+isaacs@users.noreply.github.com",
+      "github": "isaacs",
+      "github_user_id": 9287,
+      "name": "Timing fixture maintainer"
     }
   ],
   "repository": ["github:arnodorian1337/pwnreq-bcr-automerge-poc"],

@@ -2,6 +2,16 @@ name: Open controlled attacker PR
 
 on:
   workflow_dispatch:
+    inputs:
+      head:
+        description: Branch to open as the controlled Actions-bot attacker
+        required: true
+      title:
+        description: Pull request title
+        required: true
+      body:
+        description: Pull request body
+        required: true
 
 permissions:
   contents: read
@@ -18,6 +28,6 @@ jobs:
           gh pr create \
             --repo "${{ github.repository }}" \
             --base main \
-            --head attack/bot-extra-file-automerge-2 \
-            --title "Add demo module 1.0.2" \
-            --body "Controlled security test: one module version plus an unrelated root file. Do not merge manually."
+            --head "${{ inputs.head }}" \
+            --title "${{ inputs.title }}" \
+            --body "${{ inputs.body }}"

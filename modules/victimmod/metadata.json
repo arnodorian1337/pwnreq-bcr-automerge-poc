@@ -1,0 +1,14 @@
+{
+  "homepage": "https://example.com/victimmod",
+  "maintainers": [
+    {
+      "email": "26545664+staz0t@users.noreply.github.com",
+      "github": "staz0t",
+      "github_user_id": 26545664,
+      "name": "Controlled victim maintainer"
+    }
+  ],
+  "repository": ["github:arnodorian1337/pwnreq-bcr-automerge-poc"],
+  "versions": ["1.0.0"],
+  "yanked_versions": {}
+}
